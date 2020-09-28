@@ -6,11 +6,11 @@ public class Main {
         System.out.println("Fugsi : f(x) = x^2 + 2x + 1");
 
         for (int i = 1; i <= 10; i++) {
-            fungsi(i);
+            getCalculate(i);
         }
     }
 
-    static void fungsi(Integer x) {
+    static void getCalculate(Integer x) {
         int perhitungan = (x * x) + (2 * x) + 1;
         System.out.println("f("+x+") = " + x + "^2 " + "+ 2(" + x + ") + 1 = " + perhitungan);
     }
