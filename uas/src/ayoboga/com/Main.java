@@ -24,8 +24,6 @@ public class Main {
         Randy.cetak();
         MSI_R42_18.cetak();
         Java.cetak();
-
-
     }
-
 }
+
