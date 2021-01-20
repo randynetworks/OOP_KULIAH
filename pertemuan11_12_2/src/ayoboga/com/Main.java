@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("+++++++++++++++++++++++++++++");
         Manager Bernard = new Manager("Bernard",1000000);
         Bernard.cetak();
 
